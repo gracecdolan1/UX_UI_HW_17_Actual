@@ -1,0 +1,106 @@
+.inline-block {   
+    display:inline-block;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: 6270B5;
+    text-align: right;
+    margin-right: auto;
+    padding: 5x;
+
+}
+
+.navheader {
+    font-family: Mulish;
+    font-size: 30px;
+    color: D67734;
+    display: inline-block;
+    text-align: left;
+    
+}
+
+#intro {
+    font-size: 30px;
+}
+
+#midpageworksection {font-size: 40px; }
+
+.toppage {
+    background-color: white;
+    margin: 10%;
+    text-align: left;
+}
+
+#introstatement {
+    font-size: 50px;
+    font-family: Mulish, Arial, sans-serif;
+    font-style: bold;
+    font: Mulish;
+    color: #6270B5;
+    text-align: center
+}
+
+#introbody {
+    font-size: 30px;
+    font-family: Mulish;
+    text-align: center;
+    color:#D67734;
+}
+
+.mywork {
+    background: linear-gradient (orange, blue); 
+}
+
+:rgb(128, 145, 235, 20%); green, blue)
+
+#salida {
+    font-size: 30px;
+    color: white;
+    font-family: Mulish;
+    font-style: bold;
+    margin: 10%;
+}
+
+#deptofeducation {
+    font-size: 30px;
+    color: white;
+    font-family: Mulish;
+    font-style: bold;
+}
+
+#salidapic {
+    width: 174px;
+}
+
+#zelt { 
+    font-size: 30px;
+    color: white;
+    font-family: Mulish;
+    font-style: bold;
+    flex-direction: right;
+}
+#logos1 {size: 40px;}
+
+.heading2 {font-size: 50px;}
+
+#logos2 {
+    width: 50%;
+
+
+    
+}
+
+.footer {
+    background-color: white;
+    text-align: center;
+
+}
+
+#footerheader {
+    font-family: Mulish;
+    font-size: 30px;
+    color: 6270B5;
+    align-items: center;
+    text-align: center;
+
+}
